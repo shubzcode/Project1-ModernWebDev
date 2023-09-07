@@ -16,6 +16,11 @@ html,body{
     height: 100vh;
     background-color: black;
 }
+#nav {
+    width: 100%;
+    padding: 20px 40px;
+    color: white;
+}
 #nav a{
     color: wheat;
 }
