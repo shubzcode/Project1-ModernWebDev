@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: "General sans";
     box-sizing: border-box;
 }
 html,body{
@@ -9,4 +10,12 @@ html,body{
 }
 #main{
     width: 100%;
+}
+#hero{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+#nav a{
+    color: wheat;
 }
