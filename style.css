@@ -95,3 +95,16 @@ html,body{
     background-color: #888;
 
 }
+
+#second{
+    width: 100%;
+    padding-top: 200px;;
+    height: 100vh;
+    background-color: black;
+
+}
+
+.elem{
+    width: 100%;
+    border: 1px solid #777;
+}
