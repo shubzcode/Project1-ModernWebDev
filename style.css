@@ -92,7 +92,7 @@ html,body{
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    background-color: #888;
+    background-color: #889;
 
 }
 
@@ -106,5 +106,5 @@ html,body{
 
 .elem{
     width: 100%;
-    border: 1px solid #777;
+    border: 1px solid #888 ;
 }
